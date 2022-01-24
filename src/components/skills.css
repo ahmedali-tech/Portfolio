@@ -1,0 +1,43 @@
+.heading {
+  text-align: center;
+  font-family: "Lobster", cursive;
+  font-size: 3em;
+  color: white;
+}
+.skill_div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  height: fit-content;
+}
+.animate_div {
+}
+.div_Container {
+  display: flex;
+  flex-direction: row;
+  height: fit-content;
+  margin-top: 5%;
+}
+.total-icon {
+  display: flex;
+  flex-direction: column;
+}
+.cover {
+  border-radius: 50%;
+  background-color: rgb(236, 231, 231);
+  height: fit-content;
+  width: fit-content;
+  box-shadow: 6px 3px 4px rgb(128, 123, 123);
+  margin: auto;
+}
+.icon-text-style {
+  text-align: center;
+  font-family: "Staatliches", cursive;
+  margin-top: 20px;
+  color: white;
+}
+.container-fluid1 {
+  background-color: #131313;
+  height: fit-content;
+}
